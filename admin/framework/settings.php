@@ -15,7 +15,7 @@ if( class_exists( 'CSF' ) ) {
     'menu_position'           =>   6,
     'show_sub_menu'           =>   false,
     'theme'                   =>   'dark',
-    'menu_icon'               =>   'dashicons-calendar-alt',
+    'menu_icon'               =>   'dashicons-superhero',
     
   ) );
 
